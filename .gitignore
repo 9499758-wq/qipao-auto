@@ -1,0 +1,16 @@
+# 编译与构建产物
+dist/
+build/
+*.idsig
+release.keystore
+
+# 系统与 IDE 缓存
+.DS_Store
+.idea/
+*.iml
+.vscode/
+
+# 临时与备份文件
+*.bak
+*.tmp
+*.log
